@@ -1,0 +1,12 @@
+__pycache__/
+
+build/
+dist/
+
+.DS_Store
+.DS_Store?
+*.mp4
+.vscode
+.ipynb_checkpoints
+*.xlsx
+*.csv
